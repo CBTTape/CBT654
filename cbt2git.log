@@ -1,0 +1,27 @@
+2023-08-06 06:16:42.235286 - Initialized conversion of CBT654
+2023-08-06 06:16:42.409394 - Received CBT.V505.FILE654.PDS from FILE654.XMI 
+2023-08-06 06:16:42.411991 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:16:42.413115 - Found $$$DOC01.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$$$DOC01
+2023-08-06 06:16:42.414249 - Found $$$DOC02.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$$$DOC02
+2023-08-06 06:16:42.415199 - Found $$$DOC03.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$$$DOC03
+2023-08-06 06:16:42.416291 - Found $$$DOC04.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$$$DOC04
+2023-08-06 06:16:42.417265 - Found $$$DOC05.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$$$DOC05
+2023-08-06 06:16:42.418223 - Found $$$DOC06.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$$$DOC06
+2023-08-06 06:16:42.419221 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$PDSLOAD
+2023-08-06 06:16:42.420122 - Found $RECEIVE.jcl (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/$RECEIVE
+2023-08-06 06:16:42.421028 - Found @FILE654.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/@FILE654
+2023-08-06 06:16:42.656712 - Found ASM.xmi (application/xmit) in CBT.V505.FILE654.PDS
+2023-08-06 06:16:42.696025   - Received to CBT654/FSI120.ASMT
+2023-08-06 06:16:42.697174 - Found ASMT.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/ASMT
+2023-08-06 06:16:42.710658 - Found LOAD.xmi (application/xmit) in CBT.V505.FILE654.PDS
+2023-08-06 06:16:42.721560   - Received RECFM=U data, stored XMIT file as CBT654/LOAD.xmi
+2023-08-06 06:16:42.721591 - Found LOADT.bin containing application/octet-stream, moved to PDS/LOADT
+2023-08-06 06:16:42.733462 - Found MLIB.xmi (application/xmit) in CBT.V505.FILE654.PDS
+2023-08-06 06:16:42.737620   - Received to CBT654/FSI120.MLIBT
+2023-08-06 06:16:42.738706 - Found MLIBT.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/MLIBT
+2023-08-06 06:16:42.774906 - Found OBJ.xmi (application/xmit) in CBT.V505.FILE654.PDS
+2023-08-06 06:16:42.795758   - Received to CBT654/FSI120.OBJT
+2023-08-06 06:16:42.795867 - Found OBJT.bin containing application/octet-stream, moved to PDS/OBJT
+2023-08-06 06:16:42.823404 - Found PLIB.xmi (application/xmit) in CBT.V505.FILE654.PDS
+2023-08-06 06:16:42.831601   - Received to CBT654/FSI120.PLIBT
+2023-08-06 06:16:42.832610 - Found PLIBT.txt (text/plain) in CBT.V505.FILE654.PDS, moved to PDS/PLIBT
